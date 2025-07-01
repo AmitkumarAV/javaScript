@@ -41,3 +41,48 @@ let somenumber = 10;
 let stringNumber = String(somenumber);
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+
+// *******************Operations*********************
+let value = 3
+let negvalue = -value
+console.log(negvalue);
+console.log("\n");
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+
+
+let str1 = "hello"
+let str2 = " world"
+let concatString = str1 + " " + str2
+console.log(concatString);
+let str3 = str1 + str2
+console.log(str3);
+console.log("\n");
+console.log("1"+ 2);
+console.log(1 + "2");
+console.log("1" + "2");
+console.log("1"+(2+2))
+console.log("\n");
+console.log(3 + 2 +"2");
+
+console.log(true);
+console.log(+true);
+console.log(+"")
+console.log("\n");
+
+// let num1, num2,num3
+// num1 = num2 = num3 = 10
+
+let gamecounter = 100
+gamecounter++
+++gamecounter
+console.log(gamecounter);
+
+
+
+
+
+
